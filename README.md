@@ -1,4 +1,5 @@
-# Data Analysis on Time Tracker Data of University Employees
+# SAS Analysis
+## Data Analysis on Time Tracker Data of University Employees
 (STAT 6430 , SAS Project - Jul 2018)
 
 This project contains code in SAS 
@@ -19,10 +20,10 @@ the project during the day, the project number, the project stage, and whether t
 has been completed.
 The LC has recently been experimenting with project classifications, which designate an
 entire project as one of four types:
-* 1. Study coordination
-* 2. Information technology and web development
-* 3. Data analysis
-* 4. Advising
+1. Study coordination
+2. Information technology and web development
+3. Data analysis
+4. Advising
 
 The following objectives were achieved in this project -
 
@@ -50,4 +51,4 @@ ful way and should make use of a PROC procedure other than PROC PRINT (and PROC
 SQL). Graphical reports are acceptable, but not required.
 
 
-The output of the code is printed in the PDF file stored here.
+The output of the code is printed in the PDF file.
